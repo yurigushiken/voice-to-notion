@@ -8,11 +8,15 @@
 <body>
 
 <h1>Voice-to-Notion</h1>
+<p><em>This is a repost of an old repository from my previous account: <a href="https://github.com/mkg2145/voice-to-notion" target="_blank">https://github.com/mkg2145/voice-to-notion</a></em></p>
+
+<p>Workflow illustration:</p>
+<img src="C:\\Users\\yurig\\Documents\\GitHub\\voice-to-notion\\workflow.png" alt="Voice-to-Notion Workflow" style="width: 560px; height: 315px;">
+
 <p>Video demonstration:</p>
 <a href="https://www.youtube.com/watch?v=-nVTJpQAbs0" target="_blank">
   <img src="https://img.youtube.com/vi/-nVTJpQAbs0/0.jpg" alt="Watch the video" style="width: 560px; height: 315px;">
 </a>
-
 
 <h2>Requirements</h2>
 <ul>
