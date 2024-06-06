@@ -1,0 +1,7 @@
+{
+    "openai_api_key": "your-openai-api-key",
+    "google_drive_api_key": "your-google-drive-api-key",
+    "notion_api_key": "your-notion-api-key",
+    "notion_parent_page_id": "your-notion-parent-page-id",
+    "folder_path": "path-to-your-monitored-folder"
+}
