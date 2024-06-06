@@ -9,7 +9,10 @@
 
 <h1>Voice-to-Notion</h1>
 <p>Video demonstration:</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-nVTJpQAbs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=-nVTJpQAbs0" target="_blank">
+  <img src="https://img.youtube.com/vi/-nVTJpQAbs0/0.jpg" alt="Watch the video" style="width: 560px; height: 315px;">
+</a>
+
 
 <h2>Requirements</h2>
 <ul>
