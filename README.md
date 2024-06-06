@@ -7,8 +7,9 @@
 </head>
 <body>
 
-<h1>Voice-to-Notion</h1> 
-<p>Video demonstration: <a href="https://yurigushiken.com/2023/04/11/voice-to-notion-python-app/" target="_blank">https://yurigushiken.com/2023/04/11/voice-to-notion-python-app/</a></p>
+<h1>Voice-to-Notion</h1>
+<p>Video demonstration:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-nVTJpQAbs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <h2>Requirements</h2>
 <ul>
