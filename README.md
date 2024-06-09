@@ -11,10 +11,10 @@
 
 
 
-<p>Video demonstration:</p>
-<a href="https://www.youtube.com/watch?v=-nVTJpQAbs0" target="_blank">
-  <img src="https://img.youtube.com/vi/-nVTJpQAbs0/0.jpg" alt="Watch the video" style="width: 560px; height: 315px;">
-</a>
+    <p>Video demonstration:</p>
+    <a href="https://www.youtube.com/watch?v=-nVTJpQAbs0" target="_blank">
+    <img src="https://img.youtube.com/vi/-nVTJpQAbs0/0.jpg" alt="Watch the video" style="width: 560px; height: 315px;">
+    </a>
 
 <p>Workflow illustration:</p>
 <img src="./images/workflow.png" alt="Voice-to-Notion Workflow" style="width: 560px; height: 315px;">
